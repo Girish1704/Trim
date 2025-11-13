@@ -1,0 +1,104 @@
+# Azure AI Foundry and Agent Frameworks - Streamlined Lab Recommendation
+## Condensed Lab Structure for 2 Hour Duration
+
+---
+
+## Executive Summary
+
+This document provides a streamlined version of the Azure AI Foundry and Agent frameworks lab, reducing it from **6 comprehensive exercises (4 hours)** to a focused set of exercises that can be completed in **2 hours** while maintaining hands-on learning value and practical application of Azure AI Foundry capabilities.
+
+**Streamlined Duration:** 2 hours
+
+## Streamlined Lab Flow Summary
+
+### Recommended Structure
+
+| Exercise | Duration | Status | Core Focus |
+|----------|----------|--------|------------|
+| Exercise 1 | 30 min | KEEP | Environment & resource setup |
+| Exercise 2 | 30 min | KEEP | Authentication & first agent |
+| Exercise 3 | 25 min | KEEP | Chat completions & RAG |
+| Exercise 4 | 25 min | KEEP | Agent development |
+
+**Total Streamlined Duration:** 1 hour 50 minutes to 2 hours (110-120 minutes)
+
+---
+
+## Recommended Lab Execution Flow
+
+### Part 1: Foundation Setup (30 minutes)
+
+**Exercise 1: Complete Environment Setup**
+- Deploy Azure AI resources (AI Hub, AI Project, AI Search)
+- Deploy 2 essential models (GPT-4o, text-embedding-3-large)
+- Set up VS Code development environment
+- Configure authentication and connections
+
+**Learning Outcome:**
+Participants have fully deployed Azure AI Foundry environment with models accessible.
+
+---
+
+### Part 2: Validation & First Agent (30 minutes)
+
+**Exercise 2: Project Initialization**
+- Authenticate Azure credentials via CLI
+- Validate all service connections
+- Create first AI agent with visual output
+- Confirm end-to-end workflow functioning
+
+**Learning Outcome:**
+Participants successfully generate visual output from AI agent, confirming setup is complete.
+
+---
+
+### Part 3: Core AI Capabilities (25 minutes)
+
+**Exercise 3: Chat Completions & RAG**
+- Build chat completion workflows with GPT-4o
+- Implement simplified RAG pipeline (3 health tips)
+- Query AI with retrieved context from vector search
+
+**Learning Outcome:**
+Participants successfully retrieve health tips via vector search and generate context-aware LLM responses.
+
+---
+
+### Part 4: Practical Agent Development (25 minutes)
+
+**Exercise 4: Agent Development**
+- Create conversational health advisor agent
+- Build calculator agent with code interpreter
+- Test agent interaction patterns
+
+**Learning Outcome:**
+Participants have 2 functional specialized agents demonstrating conversational AI and code execution capabilities.
+
+---
+
+## Key Benefits of Streamlined Approach
+
+### Focused Learning Path
+Concentrates on essential AI Foundry capabilities: setup, authentication, chat, RAG, and agent development.
+
+### Immediate Validation
+All included exercises provide immediate, visual, testable outputs within session timeframe.
+
+### Practical Skills
+Participants gain directly applicable skills for building AI agents with Azure AI Foundry.
+
+### Complete Workflow
+Maintains logical progression: Environment Setup → Authentication → AI Capabilities → Agent Development.
+
+---
+
+## Conclusion
+
+This streamlined lab structure delivers comprehensive hands-on experience with Azure AI Foundry and agent development within a 2 hour timeframe. By focusing on essential components of AI agent creation—environment setup, authentication, chat completions, RAG implementation, and specialized agent development—participants gain practical skills immediately applicable to real-world AI projects.
+
+The removed exercises (Exercise 5: Observability and Exercise 6: Multi-Agent RAG) represent advanced topics that require strong foundational understanding. These are better suited for follow-up workshops where participants have mastered basic agent development patterns.
+
+Participants completing this streamlined lab will have functional AI agents capable of:
+- Conversational interactions with contextual understanding
+- Code execution for calculations and data visualization
+- Retrieval-augmented generation for context-aware responses
