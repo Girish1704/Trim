@@ -65,9 +65,6 @@ Participants complete end-to-end DLP implementation including policy creation, d
 
 ## Key Benefits of Streamlined Approach
 
-### Time Efficiency
-Reduces 6-7 hour lab to 2.5-3 hours while preserving core learning objectives.
-
 ### Focused Learning
 Concentrates on essential data protection capabilities: classification, labeling, and DLP.
 
@@ -87,3 +84,4 @@ Maintains logical progression from label creation through policy testing and val
 This streamlined lab structure delivers comprehensive hands-on experience with Microsoft Purview data security capabilities within a 2-3 hour timeframe. By focusing on the essential components of data classification, sensitivity labeling, and data loss prevention, participants gain practical skills that are immediately applicable to organizational data protection initiatives.
 
 The removed labs (03, 05, 07, 08, 09) can be offered as advanced or extended workshops for those seeking deeper expertise in specific areas such as insider risk management or security awareness training.
+
